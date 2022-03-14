@@ -1,0 +1,10 @@
+#jenis tipe data variabel
+nama ="NARDI"
+umur = 19
+tinggi = 1.64
+kuliah = True
+
+print(type("NARDI"))
+print(type(19))
+print(type(1.64))
+print(type(kuliah))
